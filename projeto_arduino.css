@@ -631,3 +631,10 @@ p{
   
 }
 
+.btn-conectar{
+  background-color: #540392;
+  padding: 8px 20px 8px 20px;
+  border-radius: 50px;
+  color: white;
+  border-color: #540392;
+}
